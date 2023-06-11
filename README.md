@@ -2,6 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+You can visit this app live at: https://mandegar20.github.io/React-Expense-Tracker/
 ## Available Scripts
 
 In the project directory, you can run:
